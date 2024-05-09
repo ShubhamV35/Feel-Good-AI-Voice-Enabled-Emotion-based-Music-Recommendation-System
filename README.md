@@ -9,7 +9,7 @@ Incorporates AI-powered music curation to enhance positive emotional experiences
 Combines problem-solving and emotional well-being, demonstrating how technology can improve quality of life.
 
 
-# Problem Station
+# Problem Statement
 
 The research paper highlights deficiencies in current music recommendation systems regarding their inability to offer personalized music suggestions based on real-time emotional states. It identifies various limitations such as the lack of emotion detection techniques, utilization of advanced technologies, conversational interfaces, and personalized music therapy for enhancing positive emotional experiences. To address these gaps, the paper introduces "Feel Good AI," a voice-enabled emotion-based music recommendation system. This innovative system aims to improve psychological well-being by delivering customized music suggestions aligned with users' emotional states through the integration of emotion recognition, conversational AI, and personalized music therapy.
 \
